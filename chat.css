@@ -1,0 +1,92 @@
+.container02{
+    margin: 0;
+    padding: 5% 17%;
+}
+
+.span2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.span3{
+    padding-left: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hey{
+    color: #FF207E;
+    text-align: center;
+    font-size: 8rem;
+}
+
+.hey:hover{
+    color:black;
+}
+.description1{
+    color:#FF207E;
+    font-size: 25px;
+    line-height: 2;
+    text-align: center;
+}
+
+.description1:hover{
+    color:#1089FF;
+}
+
+.chat-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5%;
+}
+
+.hey1{
+    font-size: 20px;
+    color:#FF207E;
+    padding-right: 30px;
+    line-height: 3;
+}
+
+.input_style{
+    font-size: 14px;
+    float: right;
+    background-color: white;
+    border: 0;
+    outline: 0;
+    border-bottom: 2px solid grey;
+    padding: 12px 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+input ::placeholder{
+    color: grey;
+}
+
+.send{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    width: auto;
+    height: 40px;
+    background-color: #FF207E;
+    color: #fff;
+    border: 0;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-duration: 0.4s;
+}
+
+.send:hover{
+    background-color: #1089FF;
+}
+
+.b1{
+    padding-top: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
